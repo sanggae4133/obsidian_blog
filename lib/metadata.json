@@ -1,0 +1,2669 @@
+{
+  "vaultName": "Obsidian_main",
+  "lastExport": 1719535669059,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon mk-readable-line mk-folder-lines mk-spaces-enabled mk-inline-context-enabled mk-flow-seamless",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내.pdf",
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0001.jpg",
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0002.jpg",
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0003.jpg",
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0004.jpg",
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0005.jpg",
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0006.jpg",
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0007.jpg",
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0008.jpg",
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0009.jpg",
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0010.jpg",
+    "과외/임도연_과외/attachments/Pasted image 20240619145824.png",
+    "과외/임도연_과외/attachments/Pasted image 20240619150408.png",
+    "과외/임도연_과외/attachments/Pasted image 20240619150437.png",
+    "과외/임도연_과외/attachments/Pasted image 20240619153051.jpg",
+    "과외/임도연_과외/attachments/Pasted image 20240619153246.png",
+    "과외/임도연_과외/꽃가루, 황사 데이터 받아오기.md",
+    "과외/임도연_과외/임도연_과외.md",
+    "과외/과외.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_1/1.1 인터넷이란 무엇인가_/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_1/1.2 네트워크의 가장자리/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_1/1.3 네트워크 코어/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_1/1.4 패킷 교환 네트워크에서의 지연, 손실과 처리율/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_1/1.5 프로토콜 계층과 서비스 모델/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_1/1.6 공격받는 네트워크/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_1/1.7 컴퓨터 네트워킹과 인터넷의 역사/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_2/2.1 네트워크 애플리케이션의 원리/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_2/2.2 웹과 HTTP/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_2/2.3 인터넷 전자메일/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_2/2.4 DNS_ 인터넷의 디렉터리 서비스/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_2/2.5 P2P 파일 분배/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_2/2.6 비디오 스트리밍과 콘텐츠 분배 네트워크/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_2/2.7 소켓 프로그래밍_ 네트워크 애플리케이션 생성/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.1 트랜스포트 계층 서비스 및 개요/attachments/Drawing 2024-06-13 21.18.08.excalidraw.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.1 트랜스포트 계층 서비스 및 개요/attachments/Pasted image 20240613210240.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.1 트랜스포트 계층 서비스 및 개요/attachments/Pasted image 20240613211946.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.1 트랜스포트 계층 서비스 및 개요/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.2 다중화와 역다중화/attachments/Pasted image 20240614000727.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.2 다중화와 역다중화/attachments/Pasted image 20240614002839.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.2 다중화와 역다중화/attachments/Pasted image 20240614002937.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.2 다중화와 역다중화/attachments/Pasted image 20240614003243.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.2 다중화와 역다중화/attachments/Pasted image 20240614003337.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.2 다중화와 역다중화/attachments/Pasted image 20240614003712.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.2 다중화와 역다중화/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.3 비연결형 트랜스포트_ UDP/attachments/Pasted image 20240614005617.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.3 비연결형 트랜스포트_ UDP/attachments/Pasted image 20240614005732.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.3 비연결형 트랜스포트_ UDP/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/attachments/Pasted image 20240614020554.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/attachments/Pasted image 20240615120559.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/attachments/Pasted image 20240615123034.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/attachments/Pasted image 20240615123050.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/attachments/Pasted image 20240615165109.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/attachments/Pasted image 20240615165129.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/attachments/Pasted image 20240615165148.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.5 연결지향형 트랜스포트_ TCP/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.6 혼잡 제어의 원리/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.7 TCP 혼잡 제어/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.8 트랜스포트 계층 기능의 발전/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.1 네트워크 계층 개요/attachments/Pasted image 20240617235245.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.1 네트워크 계층 개요/attachments/Pasted image 20240618002507.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.1 네트워크 계층 개요/attachments/Pasted image 20240618003305.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.1 네트워크 계층 개요/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618004402.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618005140.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618014246.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618014249.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618014252.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618014324.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618014330.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618014341.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618014413.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618015505.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618020508.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618021412.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618022356.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618023140.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618023208.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618025704.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618030307.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618030554.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618031441.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.3 인터넷 프로토콜(IP)_ IPv4, 주소체계, IPv6 등/attachments/Pasted image 20240618032622.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.3 인터넷 프로토콜(IP)_ IPv4, 주소체계, IPv6 등/attachments/Pasted image 20240618040414.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.3 인터넷 프로토콜(IP)_ IPv4, 주소체계, IPv6 등/attachments/Pasted image 20240618041549.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.3 인터넷 프로토콜(IP)_ IPv4, 주소체계, IPv6 등/attachments/Pasted image 20240618042542.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.3 인터넷 프로토콜(IP)_ IPv4, 주소체계, IPv6 등/attachments/Pasted image 20240618042605.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.3 인터넷 프로토콜(IP)_ IPv4, 주소체계, IPv6 등/attachments/Pasted image 20240618043336.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.3 인터넷 프로토콜(IP)_ IPv4, 주소체계, IPv6 등/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.4 일반화된 포워딩 및 소프트웨어 기반 네트워크(SDN)/attachments/Pasted image 20240618050117.png",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.4 일반화된 포워딩 및 소프트웨어 기반 네트워크(SDN)/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.5 미들박스/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_5/5.1 개요/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_5/5.2 라우팅 알고리즘/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_5/5.3 인터넷에서의 AS 내부 라우팅_ OSPF/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_5/5.4 인터넷 서비스 제공업자(ISP) 간의 라우팅_ BGP/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_5/5.5 소프트웨어 정의 네트워크(SDN) 제어 평면/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_5/5.6 인터넷 제어 메시지 프로토콜(ICMP)/README.md",
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_5/5.7 네트워크 관리와 SNMP, NETCONF, YANG/README.md",
+    "중앙대학교 수업/4-1/넷응설 과제 6/넷응설 과제 6.md",
+    "중앙대학교 수업/4-1/넷응설 과제 6/Drawing 2024-06-09 13.14.20.excalidraw.md",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/세준이형 통합본_page-0001.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/세준이형 통합본_page-0002.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0001.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0002.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0003.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0004.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0005.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0006.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0007.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0008.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0009.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0010.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0011.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0012.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0013.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0014.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0015.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0016.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0017.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0018.jpg",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/기말 족보.md",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/기말 족보 공부.md",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/강의 ppt.md",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05.pdf",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_1.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_2.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_3.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_4.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_5.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_6.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_7.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_8.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_9.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_10.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_11.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_12.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_13.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_14.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_15.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_16.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_17.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_18.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_19.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_20.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_21.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_22.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_23.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_24.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_25.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_26.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_27.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_28.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_29.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_30.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_31.png",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05(번역).pdf",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/Lec 5-1.md",
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/Lec 5-1.Pthread-Programming.md",
+    "중앙대학교 수업/4-1/일반물리실험/내용 정리/00-1. 실험 시 유의 사항 및 보고서 작성 요령.md",
+    "중앙대학교 수업/4-1/일반물리실험/내용 정리/00-2. 계측 기기 사용법.md",
+    "중앙대학교 수업/4-1/일반물리실험/내용 정리/02. 힘의 합성과 분해.md",
+    "중앙대학교 수업/4-1/일반물리실험/내용 정리/내용 정리.md",
+    "중앙대학교 수업/4-1/일반물리실험/기말고사 정보.md",
+    "중앙대학교 수업/4-1/일반물리실험/일반물리실험.md",
+    "중앙대학교 수업/4-1/4-1.md",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_1.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_2.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_3.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_4.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_5.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_6.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_7.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_8.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_9.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_10.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_11.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_12.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_13.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_14.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_15.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch6_1.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch6_2.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch6_3.png",
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch6_4.png",
+    "중앙대학교 수업/24-s/미적분학(1)/미적분학(1).md",
+    "중앙대학교 수업/24-s/미적분학(1)/Ch.02.md",
+    "중앙대학교 수업/24-s/미적분학(1)/Ch.06.md",
+    "중앙대학교 수업/24-s/24-s.md",
+    "index.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "과외/임도연_과외/attachments/pasted-image-20240619153246.png",
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0001.jpg",
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0002.jpg",
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0003.jpg",
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0004.jpg",
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0005.jpg",
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0006.jpg",
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0007.jpg",
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0008.jpg",
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0009.jpg",
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0010.jpg",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.1-트랜스포트-계층-서비스-및-개요/attachments/pasted-image-20240613210240.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.1-트랜스포트-계층-서비스-및-개요/attachments/pasted-image-20240613211946.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614000727.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614002839.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614002937.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614003337.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614003712.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.3-비연결형-트랜스포트_-udp/attachments/pasted-image-20240614005732.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240614020554.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615123050.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615165129.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615165148.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.1-네트워크-계층-개요/attachments/pasted-image-20240617235245.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014252.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014249.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014324.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014330.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014413.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014341.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618015505.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618020508.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618021412.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618022356.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618023140.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618023208.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618030307.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618030554.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618031441.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618040414.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618042542.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618043336.png",
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.4-일반화된-포워딩-및-소프트웨어-기반-네트워크(sdn)/attachments/pasted-image-20240618050117.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0001.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0002.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/세준이형-통합본_page-0001.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/세준이형-통합본_page-0002.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0005.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0006.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0007.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0008.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0009.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0010.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0011.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0012.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0013.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0014.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0015.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0016.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0017.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0018.jpg",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_1.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_2.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_3.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_4.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_5.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_6.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_7.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_8.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_9.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_10.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_11.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_12.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_13.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_14.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_15.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_16.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_17.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_18.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_19.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_20.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_21.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_22.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_23.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_24.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_25.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_26.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_27.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_28.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_29.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_30.png",
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_31.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_1.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_2.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_3.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_4.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_5.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_6.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_7.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_8.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_9.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_10.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_11.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_12.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_13.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_14.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_15.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_1.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_2.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_3.png",
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_4.png"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내.pdf": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1050454,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내.pdf",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0001.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 358461,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0001.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0002.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1411535,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0002.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0003.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 891848,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0003.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0004.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1474955,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0004.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0005.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 938456,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0005.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0006.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1250338,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0006.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0007.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1917585,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0007.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0008.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2212635,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0008.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0009.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1060738,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0009.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_API허브_사용_방법_안내_page-0010.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 917125,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0010.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/Pasted image 20240619145824.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 31843,
+      "exportedPath": "과외/임도연_과외/attachments/pasted-image-20240619145824.png",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/Pasted image 20240619150408.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 74962,
+      "exportedPath": "과외/임도연_과외/attachments/pasted-image-20240619150408.png",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/Pasted image 20240619150437.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 32124,
+      "exportedPath": "과외/임도연_과외/attachments/pasted-image-20240619150437.png",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/Pasted image 20240619153051.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 0,
+      "exportedPath": "과외/임도연_과외/attachments/pasted-image-20240619153051.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/Pasted image 20240619153246.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 37587,
+      "exportedPath": "과외/임도연_과외/attachments/pasted-image-20240619153246.png",
+      "dependencies": []
+    },
+    "과외/임도연_과외/꽃가루, 황사 데이터 받아오기.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 17679,
+      "exportedPath": "과외/임도연_과외/꽃가루,-황사-데이터-받아오기.html",
+      "dependencies": [
+        "과외/임도연_과외/attachments/pasted-image-20240619153246.png",
+        "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0001.jpg",
+        "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0002.jpg",
+        "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0003.jpg",
+        "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0004.jpg",
+        "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0005.jpg",
+        "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0006.jpg",
+        "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0007.jpg",
+        "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0008.jpg",
+        "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0009.jpg",
+        "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0010.jpg"
+      ]
+    },
+    "과외/임도연_과외/임도연_과외.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 127,
+      "exportedPath": "과외/임도연_과외/임도연_과외.html",
+      "dependencies": []
+    },
+    "과외/과외.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 127,
+      "exportedPath": "과외/과외.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_1/1.1 인터넷이란 무엇인가_/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 7354,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_1/1.1-인터넷이란-무엇인가_/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_1/1.2 네트워크의 가장자리/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 16809,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_1/1.2-네트워크의-가장자리/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_1/1.3 네트워크 코어/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 27334,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_1/1.3-네트워크-코어/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_1/1.4 패킷 교환 네트워크에서의 지연, 손실과 처리율/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 17079,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_1/1.4-패킷-교환-네트워크에서의-지연,-손실과-처리율/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_1/1.5 프로토콜 계층과 서비스 모델/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 10134,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_1/1.5-프로토콜-계층과-서비스-모델/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_1/1.6 공격받는 네트워크/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 8440,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_1/1.6-공격받는-네트워크/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_1/1.7 컴퓨터 네트워킹과 인터넷의 역사/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 10374,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_1/1.7-컴퓨터-네트워킹과-인터넷의-역사/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_2/2.1 네트워크 애플리케이션의 원리/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 13011,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_2/2.1-네트워크-애플리케이션의-원리/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_2/2.2 웹과 HTTP/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 28930,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_2/2.2-웹과-http/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_2/2.3 인터넷 전자메일/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 9916,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_2/2.3-인터넷-전자메일/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_2/2.4 DNS_ 인터넷의 디렉터리 서비스/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 20193,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_2/2.4-dns_-인터넷의-디렉터리-서비스/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_2/2.5 P2P 파일 분배/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 9563,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_2/2.5-p2p-파일-분배/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_2/2.6 비디오 스트리밍과 콘텐츠 분배 네트워크/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 12972,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_2/2.6-비디오-스트리밍과-콘텐츠-분배-네트워크/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_2/2.7 소켓 프로그래밍_ 네트워크 애플리케이션 생성/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 10967,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_2/2.7-소켓-프로그래밍_-네트워크-애플리케이션-생성/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.1 트랜스포트 계층 서비스 및 개요/attachments/Drawing 2024-06-13 21.18.08.excalidraw.md": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 5041,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.1-트랜스포트-계층-서비스-및-개요/attachments/drawing-2024-06-13-21.18.08.excalidraw.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.1 트랜스포트 계층 서비스 및 개요/attachments/Pasted image 20240613210240.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 474526,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.1-트랜스포트-계층-서비스-및-개요/attachments/pasted-image-20240613210240.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.1 트랜스포트 계층 서비스 및 개요/attachments/Pasted image 20240613211946.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 27636,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.1-트랜스포트-계층-서비스-및-개요/attachments/pasted-image-20240613211946.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.1 트랜스포트 계층 서비스 및 개요/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 6039,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.1-트랜스포트-계층-서비스-및-개요/readme.html",
+      "dependencies": [
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.1-트랜스포트-계층-서비스-및-개요/attachments/pasted-image-20240613210240.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.1-트랜스포트-계층-서비스-및-개요/attachments/pasted-image-20240613211946.png"
+      ]
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.2 다중화와 역다중화/attachments/Pasted image 20240614000727.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 161310,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614000727.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.2 다중화와 역다중화/attachments/Pasted image 20240614002839.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 70823,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614002839.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.2 다중화와 역다중화/attachments/Pasted image 20240614002937.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 127811,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614002937.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.2 다중화와 역다중화/attachments/Pasted image 20240614003243.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 229330,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614003243.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.2 다중화와 역다중화/attachments/Pasted image 20240614003337.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 255836,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614003337.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.2 다중화와 역다중화/attachments/Pasted image 20240614003712.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 341969,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614003712.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.2 다중화와 역다중화/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 8599,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/readme.html",
+      "dependencies": [
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614000727.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614002839.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614002937.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614003337.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614003712.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614003712.png"
+      ]
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.3 비연결형 트랜스포트_ UDP/attachments/Pasted image 20240614005617.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 80355,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.3-비연결형-트랜스포트_-udp/attachments/pasted-image-20240614005617.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.3 비연결형 트랜스포트_ UDP/attachments/Pasted image 20240614005732.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 80312,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.3-비연결형-트랜스포트_-udp/attachments/pasted-image-20240614005732.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.3 비연결형 트랜스포트_ UDP/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 9338,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.3-비연결형-트랜스포트_-udp/readme.html",
+      "dependencies": [
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.3-비연결형-트랜스포트_-udp/attachments/pasted-image-20240614005732.png"
+      ]
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/attachments/Pasted image 20240614020554.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 203015,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240614020554.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/attachments/Pasted image 20240615120559.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 53539,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615120559.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/attachments/Pasted image 20240615123034.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 303629,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615123034.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/attachments/Pasted image 20240615123050.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 108583,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615123050.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/attachments/Pasted image 20240615165109.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 80680,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615165109.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/attachments/Pasted image 20240615165129.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 258778,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615165129.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/attachments/Pasted image 20240615165148.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 238537,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615165148.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.4 신뢰적인 데이터 전송의 원리/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 40904,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/readme.html",
+      "dependencies": [
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240614020554.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615123050.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615165129.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615165148.png"
+      ]
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.5 연결지향형 트랜스포트_ TCP/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 38927,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.5-연결지향형-트랜스포트_-tcp/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.6 혼잡 제어의 원리/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 7928,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.6-혼잡-제어의-원리/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.7 TCP 혼잡 제어/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 21930,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.7-tcp-혼잡-제어/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_3/3.8 트랜스포트 계층 기능의 발전/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 4977,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.8-트랜스포트-계층-기능의-발전/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.1 네트워크 계층 개요/attachments/Pasted image 20240617235245.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 599512,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.1-네트워크-계층-개요/attachments/pasted-image-20240617235245.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.1 네트워크 계층 개요/attachments/Pasted image 20240618002507.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 254919,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.1-네트워크-계층-개요/attachments/pasted-image-20240618002507.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.1 네트워크 계층 개요/attachments/Pasted image 20240618003305.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 351763,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.1-네트워크-계층-개요/attachments/pasted-image-20240618003305.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.1 네트워크 계층 개요/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 5983,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.1-네트워크-계층-개요/readme.html",
+      "dependencies": [
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.1-네트워크-계층-개요/attachments/pasted-image-20240617235245.png"
+      ]
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618004402.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 162434,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618004402.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618005140.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 120873,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618005140.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618014246.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 36330,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014246.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618014249.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 36330,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014249.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618014252.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 100004,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014252.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618014324.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 226645,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014324.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618014330.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 65476,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014330.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618014341.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 75788,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014341.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618014413.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 72257,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014413.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618015505.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 119578,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618015505.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618020508.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 251343,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618020508.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618021412.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 239770,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618021412.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618022356.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 102446,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618022356.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618023140.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 45321,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618023140.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618023208.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 103246,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618023208.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618025704.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 80047,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618025704.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618030307.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 106697,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618030307.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618030554.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 109696,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618030554.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/attachments/Pasted image 20240618031441.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 100642,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618031441.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.2 라우터 내부에는 무엇이 있을까_/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 18826,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/readme.html",
+      "dependencies": [
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014252.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014249.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014324.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014330.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014413.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014341.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618015505.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618020508.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618021412.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618022356.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618023140.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618023208.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618030307.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618030554.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618031441.png"
+      ]
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.3 인터넷 프로토콜(IP)_ IPv4, 주소체계, IPv6 등/attachments/Pasted image 20240618032622.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 263333,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618032622.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.3 인터넷 프로토콜(IP)_ IPv4, 주소체계, IPv6 등/attachments/Pasted image 20240618040414.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 142736,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618040414.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.3 인터넷 프로토콜(IP)_ IPv4, 주소체계, IPv6 등/attachments/Pasted image 20240618041549.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 80839,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618041549.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.3 인터넷 프로토콜(IP)_ IPv4, 주소체계, IPv6 등/attachments/Pasted image 20240618042542.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 202654,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618042542.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.3 인터넷 프로토콜(IP)_ IPv4, 주소체계, IPv6 등/attachments/Pasted image 20240618042605.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 276861,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618042605.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.3 인터넷 프로토콜(IP)_ IPv4, 주소체계, IPv6 등/attachments/Pasted image 20240618043336.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 222227,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618043336.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.3 인터넷 프로토콜(IP)_ IPv4, 주소체계, IPv6 등/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 23277,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/readme.html",
+      "dependencies": [
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618040414.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618042542.png",
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618043336.png"
+      ]
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.4 일반화된 포워딩 및 소프트웨어 기반 네트워크(SDN)/attachments/Pasted image 20240618050117.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 758444,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.4-일반화된-포워딩-및-소프트웨어-기반-네트워크(sdn)/attachments/pasted-image-20240618050117.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.4 일반화된 포워딩 및 소프트웨어 기반 네트워크(SDN)/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 7531,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.4-일반화된-포워딩-및-소프트웨어-기반-네트워크(sdn)/readme.html",
+      "dependencies": [
+        "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.4-일반화된-포워딩-및-소프트웨어-기반-네트워크(sdn)/attachments/pasted-image-20240618050117.png"
+      ]
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_4/4.5 미들박스/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1766,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.5-미들박스/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_5/5.1 개요/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 3091,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_5/5.1-개요/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_5/5.2 라우팅 알고리즘/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 25476,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_5/5.2-라우팅-알고리즘/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_5/5.3 인터넷에서의 AS 내부 라우팅_ OSPF/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 7267,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_5/5.3-인터넷에서의-as-내부-라우팅_-ospf/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_5/5.4 인터넷 서비스 제공업자(ISP) 간의 라우팅_ BGP/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 23760,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_5/5.4-인터넷-서비스-제공업자(isp)-간의-라우팅_-bgp/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_5/5.5 소프트웨어 정의 네트워크(SDN) 제어 평면/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 17388,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_5/5.5-소프트웨어-정의-네트워크(sdn)-제어-평면/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_5/5.6 인터넷 제어 메시지 프로토콜(ICMP)/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 4239,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_5/5.6-인터넷-제어-메시지-프로토콜(icmp)/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/네트워크응용설계 요약/Chapter_5/5.7 네트워크 관리와 SNMP, NETCONF, YANG/README.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 14623,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_5/5.7-네트워크-관리와-snmp,-netconf,-yang/readme.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/넷응설 과제 6/넷응설 과제 6.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 0,
+      "exportedPath": "중앙대학교-수업/4-1/넷응설-과제-6/넷응설-과제-6.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/넷응설 과제 6/Drawing 2024-06-09 13.14.20.excalidraw.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 27221,
+      "exportedPath": "중앙대학교-수업/4-1/넷응설-과제-6/drawing-2024-06-09-13.14.20.excalidraw.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/세준이형 통합본_page-0001.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1896109,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/세준이형-통합본_page-0001.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/세준이형 통합본_page-0002.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1619231,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/세준이형-통합본_page-0002.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0001.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2145380,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0001.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0002.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1452440,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0002.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0003.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1813064,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0003.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0004.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1820780,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0004.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0005.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1624883,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0005.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0006.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1875366,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0006.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0007.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2240534,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0007.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0008.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1323224,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0008.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0009.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1902855,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0009.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0010.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1151885,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0010.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0011.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2167288,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0011.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0012.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2093104,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0012.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0013.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1936326,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0013.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0014.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1603839,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0014.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0015.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2335210,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0015.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0016.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1688967,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0016.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0017.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2002455,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0017.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/attachments/태운이형 통합본_page-0018.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1866271,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0018.jpg",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/기말 족보.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 127,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/기말-족보.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/기말 족보/기말 족보 공부.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 911,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/기말-족보-공부.html",
+      "dependencies": [
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0001.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0002.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/세준이형-통합본_page-0001.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/세준이형-통합본_page-0002.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0005.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0006.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0007.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0008.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0009.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0010.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0011.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0012.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0013.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0014.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0015.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0016.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0017.jpg",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0018.jpg"
+      ]
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/강의 ppt.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 127,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/강의-ppt.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05.pdf": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 473682,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05.pdf",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_1.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 108297,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_1.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_2.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 240848,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_2.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_3.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 636204,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_3.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_4.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 433417,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_4.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_5.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 273548,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_5.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_6.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 676233,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_6.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_7.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 211761,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_7.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_8.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 115646,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_8.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_9.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 296429,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_9.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_10.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 303771,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_10.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_11.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 250408,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_11.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_12.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 371929,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_12.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_13.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 171763,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_13.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_14.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 258146,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_14.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_15.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 317776,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_15.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_16.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 165036,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_16.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_17.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 302793,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_17.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_18.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 278848,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_18.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_19.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 195328,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_19.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_20.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 258394,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_20.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_21.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 339742,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_21.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_22.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 189255,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_22.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_23.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 266923,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_23.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_24.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 295235,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_24.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_25.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 311676,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_25.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_26.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 274252,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_26.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_27.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 306562,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_27.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_28.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 277359,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_28.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_29.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 432835,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_29.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_30.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 295948,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_30.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05_31.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 376085,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_31.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/강의 ppt/lec 5-1 multicore05(번역).pdf": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2069762,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05(번역).pdf",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/Lec 5-1.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 127,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/lec-5-1.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/멀티코어컴퓨팅/Lec 5-1/Lec 5-1.Pthread-Programming.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1139,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/lec-5-1.pthread-programming.html",
+      "dependencies": [
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_1.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_2.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_3.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_4.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_5.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_6.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_7.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_8.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_9.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_10.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_11.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_12.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_13.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_14.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_15.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_16.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_17.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_18.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_19.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_20.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_21.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_22.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_23.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_24.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_25.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_26.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_27.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_28.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_29.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_30.png",
+        "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_31.png"
+      ]
+    },
+    "중앙대학교 수업/4-1/일반물리실험/내용 정리/00-1. 실험 시 유의 사항 및 보고서 작성 요령.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 678,
+      "exportedPath": "중앙대학교-수업/4-1/일반물리실험/내용-정리/00-1.-실험-시-유의-사항-및-보고서-작성-요령.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/일반물리실험/내용 정리/00-2. 계측 기기 사용법.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 268,
+      "exportedPath": "중앙대학교-수업/4-1/일반물리실험/내용-정리/00-2.-계측-기기-사용법.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/일반물리실험/내용 정리/02. 힘의 합성과 분해.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 16,
+      "exportedPath": "중앙대학교-수업/4-1/일반물리실험/내용-정리/02.-힘의-합성과-분해.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/일반물리실험/내용 정리/내용 정리.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 127,
+      "exportedPath": "중앙대학교-수업/4-1/일반물리실험/내용-정리/내용-정리.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/일반물리실험/기말고사 정보.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 972,
+      "exportedPath": "중앙대학교-수업/4-1/일반물리실험/기말고사-정보.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/일반물리실험/일반물리실험.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 127,
+      "exportedPath": "중앙대학교-수업/4-1/일반물리실험/일반물리실험.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/4-1/4-1.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 127,
+      "exportedPath": "중앙대학교-수업/4-1/4-1.html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_1.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 258206,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_1.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_2.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 307205,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_2.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_3.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 291390,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_3.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_4.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 332950,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_4.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_5.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 232518,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_5.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_6.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 273844,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_6.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_7.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 314239,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_7.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_8.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 227744,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_8.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_9.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 385381,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_9.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_10.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 361248,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_10.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_11.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 351885,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_11.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_12.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 356413,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_12.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_13.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 256003,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_13.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_14.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 255709,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_14.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch2_15.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 192062,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_15.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch6_1.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 249903,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_1.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch6_2.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 241274,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_2.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch6_3.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 380068,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_3.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/attachments/Ch6_4.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 395210,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_4.png",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/미적분학(1).md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 127,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/미적분학(1).html",
+      "dependencies": []
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/Ch.02.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 473,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/ch.02.html",
+      "dependencies": [
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_1.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_2.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_3.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_4.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_5.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_6.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_7.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_8.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_9.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_10.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_11.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_12.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_13.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_14.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_15.png"
+      ]
+    },
+    "중앙대학교 수업/24-s/미적분학(1)/Ch.06.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 74,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/ch.06.html",
+      "dependencies": [
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_1.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_2.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_3.png",
+        "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_4.png"
+      ]
+    },
+    "중앙대학교 수업/24-s/24-s.md": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 127,
+      "exportedPath": "중앙대학교-수업/24-s/24-s.html",
+      "dependencies": []
+    },
+    "index.md": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 18,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/pasted-image-20240619153246.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 37587,
+      "exportedPath": "과외/임도연_과외/attachments/pasted-image-20240619153246.png",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0001.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 358461,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0001.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0002.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1411535,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0002.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0003.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 891848,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0003.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0004.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1474955,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0004.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0005.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 938456,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0005.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0006.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1250338,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0006.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0007.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1917585,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0007.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0008.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2212635,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0008.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0009.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1060738,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0009.jpg",
+      "dependencies": []
+    },
+    "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0010.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 917125,
+      "exportedPath": "과외/임도연_과외/attachments/기상청_api허브_사용_방법_안내_page-0010.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.1-트랜스포트-계층-서비스-및-개요/attachments/pasted-image-20240613210240.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 474526,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.1-트랜스포트-계층-서비스-및-개요/attachments/pasted-image-20240613210240.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.1-트랜스포트-계층-서비스-및-개요/attachments/pasted-image-20240613211946.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 27636,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.1-트랜스포트-계층-서비스-및-개요/attachments/pasted-image-20240613211946.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614000727.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 161310,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614000727.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614002839.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 70823,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614002839.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614002937.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 127811,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614002937.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614003337.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 255836,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614003337.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614003712.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 341969,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.2-다중화와-역다중화/attachments/pasted-image-20240614003712.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.3-비연결형-트랜스포트_-udp/attachments/pasted-image-20240614005732.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 80312,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.3-비연결형-트랜스포트_-udp/attachments/pasted-image-20240614005732.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240614020554.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 203015,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240614020554.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615123050.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 108583,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615123050.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615165129.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 258778,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615165129.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615165148.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 238537,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_3/3.4-신뢰적인-데이터-전송의-원리/attachments/pasted-image-20240615165148.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.1-네트워크-계층-개요/attachments/pasted-image-20240617235245.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 599512,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.1-네트워크-계층-개요/attachments/pasted-image-20240617235245.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014252.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 100004,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014252.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014249.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 36330,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014249.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014324.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 226645,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014324.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014330.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 65476,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014330.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014413.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 72257,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014413.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014341.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 75788,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618014341.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618015505.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 119578,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618015505.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618020508.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 251343,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618020508.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618021412.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 239770,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618021412.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618022356.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 102446,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618022356.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618023140.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 45321,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618023140.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618023208.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 103246,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618023208.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618030307.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 106697,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618030307.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618030554.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 109696,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618030554.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618031441.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 100642,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.2-라우터-내부에는-무엇이-있을까_/attachments/pasted-image-20240618031441.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618040414.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 142736,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618040414.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618042542.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 202654,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618042542.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618043336.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 222227,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.3-인터넷-프로토콜(ip)_-ipv4,-주소체계,-ipv6-등/attachments/pasted-image-20240618043336.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.4-일반화된-포워딩-및-소프트웨어-기반-네트워크(sdn)/attachments/pasted-image-20240618050117.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 758444,
+      "exportedPath": "중앙대학교-수업/4-1/네트워크응용설계-요약/chapter_4/4.4-일반화된-포워딩-및-소프트웨어-기반-네트워크(sdn)/attachments/pasted-image-20240618050117.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0001.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2145380,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0001.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0002.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1452440,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0002.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/세준이형-통합본_page-0001.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1896109,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/세준이형-통합본_page-0001.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/세준이형-통합본_page-0002.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1619231,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/세준이형-통합본_page-0002.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0005.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1624883,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0005.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0006.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1875366,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0006.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0007.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2240534,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0007.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0008.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1323224,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0008.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0009.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1902855,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0009.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0010.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1151885,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0010.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0011.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2167288,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0011.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0012.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2093104,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0012.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0013.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1936326,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0013.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0014.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1603839,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0014.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0015.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2335210,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0015.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0016.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1688967,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0016.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0017.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 2002455,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0017.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0018.jpg": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 1866271,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/기말-족보/attachments/태운이형-통합본_page-0018.jpg",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_1.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 108297,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_1.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_2.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 240848,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_2.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_3.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 636204,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_3.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_4.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 433417,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_4.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_5.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 273548,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_5.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_6.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 676233,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_6.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_7.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 211761,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_7.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_8.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 115646,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_8.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_9.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 296429,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_9.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_10.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 303771,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_10.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_11.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 250408,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_11.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_12.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 371929,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_12.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_13.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 171763,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_13.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_14.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 258146,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_14.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_15.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 317776,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_15.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_16.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 165036,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_16.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_17.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 302793,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_17.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_18.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 278848,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_18.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_19.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 195328,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_19.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_20.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 258394,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_20.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_21.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 339742,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_21.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_22.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 189255,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_22.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_23.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 266923,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_23.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_24.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 295235,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_24.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_25.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 311676,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_25.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_26.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 274252,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_26.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_27.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 306562,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_27.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_28.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 277359,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_28.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_29.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 432835,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_29.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_30.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 295948,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_30.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_31.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 376085,
+      "exportedPath": "중앙대학교-수업/4-1/멀티코어컴퓨팅/lec-5-1/강의-ppt/lec-5-1-multicore05_31.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_1.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 258206,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_1.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_2.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 307205,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_2.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_3.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 291390,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_3.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_4.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 332950,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_4.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_5.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 232518,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_5.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_6.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 273844,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_6.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_7.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 314239,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_7.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_8.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 227744,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_8.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_9.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 385381,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_9.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_10.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 361248,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_10.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_11.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 351885,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_11.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_12.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 356413,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_12.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_13.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 256003,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_13.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_14.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 255709,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_14.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_15.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 192062,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch2_15.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_1.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 249903,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_1.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_2.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 241274,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_2.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_3.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 380068,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_3.png",
+      "dependencies": []
+    },
+    "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_4.png": {
+      "modifiedTime": 1719534569614,
+      "sourceSize": 395210,
+      "exportedPath": "중앙대학교-수업/24-s/미적분학(1)/attachments/ch6_4.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 232761,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 4475,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 112251,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1719535669059,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
